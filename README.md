@@ -13,6 +13,15 @@ pnpm dev
 # or
 bun dev
 ```
+## 📸 Screenshots
+
+### หน้าแรก
+![Home Page](./home.png)
+
+### รายละเอียดหนังสือ
+![Book Detail](./detail.png)
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 

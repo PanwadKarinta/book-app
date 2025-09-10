@@ -5,8 +5,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #ededed ;
+    --foreground: #0a0a0a;
   }
 }
 
@@ -40,3 +40,12 @@ a {
     color-scheme: dark;
   }
 }
+
+body {
+  background-color: #fff8e7; /* สีครีมอ่อน */
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
